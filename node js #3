@@ -1,0 +1,5 @@
+V8 Engine/Js Engine
+
+Computers do not understand js So the v8 engine takes the js code and convert it to machine code
+Node.js is written in C++
+V8 can run standalone or can be embadded with C+
