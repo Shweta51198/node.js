@@ -1,0 +1,18 @@
+Node.js
+
+1.A platform which allows us to run javascript on a computer/server
+2.Read,delete and update files
+3.Easily Communicate with Database
+
+Why is Node.js so popular?
+
+1.It Uses Javascript
+2.Very Fast(runs on the V8 engine and uses non blocking code)
+3.Huge ecosystem of open source packages(npm)
+4.Great for real-time services(like chats)
+
+*V8 Engine:- It's the thing that takes our JavaScript code and executes it while browsing with Chrome.
+*Non blocking code:- It refers to the program that does not block the execution of further operations. 
+                     Non-Blocking methods are executed asynchronously. 
+                     Asynchronously means that the program may not necessarily execute line by line. 
+                     The program calls the function and move to the next operation and does not wait for it to return.
